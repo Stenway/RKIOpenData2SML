@@ -1,0 +1,6 @@
+Quelle:
+https://github.com/robert-koch-institut/COVID-19-Hospitalisierungen_in_Deutschland
+
+Robert Koch-Institut (2021): COVID-19-Hospitalisierungen in Deutschland, Berlin: Zenodo. DOI:10.5281/zenodo.5519056.
+
+Der Datensatz "COVID-19-Hospitalisierungen in Deutschland" ist lizenziert unter der Creative Commons Namensnennung 4.0 International Public License | CC-BY 4.0 International
